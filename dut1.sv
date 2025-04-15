@@ -1,3 +1,4 @@
 always_ff@(maksimka) begin
-	artemka <= happy
+	artemka <= happy;
+	maksimka <= sad;
 end
